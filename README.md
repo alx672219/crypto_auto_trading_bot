@@ -10,7 +10,7 @@
 3. "find_k.py" provides a value k which is crucial for the calculation later.
 4. "auto_trade.py" buys and sells a cryptocurrency using Volatility Break-out strategy.
 
-## Volatility Break-out strategy
+### Volatility Break-out strategy
 - 
 
 
