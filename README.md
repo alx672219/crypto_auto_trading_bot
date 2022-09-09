@@ -16,6 +16,9 @@
 ![9b240cd4-dd34-4db3-8817-c6908baa4c53](https://user-images.githubusercontent.com/113051612/189268858-6e887a5e-6844-45d2-9d31-3133a161d8d6.png)
 
 ### Conclusion
+![message 1](https://user-images.githubusercontent.com/113051612/189270068-d623f747-6b36-4fcb-9740-5e9dbb1dba52.png)
+
+
 ![profit](https://user-images.githubusercontent.com/113051612/189269529-32ade485-36ea-47f0-bc3d-16f09603a4c9.png)
 
 - My profit = 3.17%
