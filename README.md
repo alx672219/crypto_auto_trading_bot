@@ -9,8 +9,13 @@
 2. "get_my_balance.py" prints my balance.
 3. "find_k.py" provides a value k which is crucial for the calculation later.
 4. "auto_trade.py" buys and sells a cryptocurrency using Volatility Break-out strategy.
+5. "Machine_Learning.ipynb" analyzes and predicts the future price and decides whether to sell the cryptocurrency.
 
 ### Volatility Break-out strategy
-- 
+![9b240cd4-dd34-4db3-8817-c6908baa4c53](https://user-images.githubusercontent.com/113051612/189268858-6e887a5e-6844-45d2-9d31-3133a161d8d6.png)
+
+### Conclusion
+
+
 
 
