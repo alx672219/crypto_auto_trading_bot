@@ -9,7 +9,7 @@
 2. "get_my_balance.py" prints my balance.
 3. "find_k.py" provides a value k which is crucial for the calculation later.
 4. "auto_trade.py" buys and sells a cryptocurrency using Volatility Break-out strategy.
-5. "Machine_Learning.ipynb" analyzes and predicts the future price and decides whether to sell the cryptocurrency.
+5. "Machine_Learning.ipynb" analyzes and predicts the future price and decides whether to sell the cryptocurrency with AI.
 6. Sends message to me when auto trade starts, crypto is bought and sold, and there is an error using Slack.
 
 ![message 1](https://user-images.githubusercontent.com/113051612/189270068-d623f747-6b36-4fcb-9740-5e9dbb1dba52.png)
