@@ -2,7 +2,7 @@
 
 ## with Bithumb API
 
-- I chose Ethereum (you can choose any other coins)
+- I chose Ethereum (you can choose any other coins).
 
 ### Main Functions
 1. "get_data.py" prints the data (candle chart) of a cryptocurrency in an Excel file.
