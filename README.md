@@ -1,6 +1,10 @@
-# BMI Calculator
+# Crypto Auto Trading Bot
 
-## Main Functions
-1. Calculate body mass index using a person's height and weight.
-2. Unit conversion (ex: cm <-> ft and kg <-> lb)
+## with Bithumb API
+
+### Main Functions
+- I chose Ethereum
+1. "get_data.py" prints the data (candle chart) of a cryptocurrency in an Excel file.
+2. "get_my_balance" prints my balance
 3. Indicate whether a person is underweight, normal, overweight, obese, or extremely obese with a corresponding body picture.
+
