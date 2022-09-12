@@ -20,6 +20,8 @@
 
 
 ### Volatility Break-out strategy
+- Volatility Break-out strategy was developed by Larry Williams who is a stock trader in the U.S. His strategies are based on the concept that if the market makes a movement of a certain size in a short period of time, this movement will continue for some time.
+
 ![9b240cd4-dd34-4db3-8817-c6908baa4c53](https://user-images.githubusercontent.com/113051612/189268858-6e887a5e-6844-45d2-9d31-3133a161d8d6.png)
 - Since the cryptocurrency exchange does not have opening or closing time, I set the time to be 2 p.m.
 
