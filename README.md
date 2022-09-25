@@ -1,4 +1,4 @@
-<h4> 2022/07 ~ 2022/08 </h4>
+<h4> 2022/07 </h4>
 
 # Crypto Auto Trading Bot
 
